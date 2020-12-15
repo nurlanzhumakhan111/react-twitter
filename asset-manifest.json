@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "//nurlanzhumakhan111.github.io/react-twitter/static/css/main.4a75a159.chunk.css",
+    "main.js": "//nurlanzhumakhan111.github.io/react-twitter/static/js/main.849f98f0.chunk.js",
+    "main.js.map": "//nurlanzhumakhan111.github.io/react-twitter/static/js/main.849f98f0.chunk.js.map",
+    "runtime-main.js": "//nurlanzhumakhan111.github.io/react-twitter/static/js/runtime-main.e0121201.js",
+    "runtime-main.js.map": "//nurlanzhumakhan111.github.io/react-twitter/static/js/runtime-main.e0121201.js.map",
+    "static/js/2.12093bfd.chunk.js": "//nurlanzhumakhan111.github.io/react-twitter/static/js/2.12093bfd.chunk.js",
+    "static/js/2.12093bfd.chunk.js.map": "//nurlanzhumakhan111.github.io/react-twitter/static/js/2.12093bfd.chunk.js.map",
+    "index.html": "//nurlanzhumakhan111.github.io/react-twitter/index.html",
+    "static/css/main.4a75a159.chunk.css.map": "//nurlanzhumakhan111.github.io/react-twitter/static/css/main.4a75a159.chunk.css.map",
+    "static/js/2.12093bfd.chunk.js.LICENSE.txt": "//nurlanzhumakhan111.github.io/react-twitter/static/js/2.12093bfd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e0121201.js",
+    "static/js/2.12093bfd.chunk.js",
+    "static/css/main.4a75a159.chunk.css",
+    "static/js/main.849f98f0.chunk.js"
+  ]
+}
